@@ -4,7 +4,7 @@
 <ShortName>Google&#32;Scholar</ShortName>
 <Description>Stand on the shoulders of giants</Description>
 <InputEncoding>UTF-8</InputEncoding>
-<Image height="16" width="16">http://scholar.google.ch/favicon.ico</Image>
-<Url type="text/html" method="GET" template="http://scholar.google.ch/scholar?hl=en&amp;q={searchTerms}"/>
+<Image height="16" width="16">http://scholar.google.com/favicon.ico</Image>
+<Url type="text/html" method="GET" template="http://scholar.google.com/scholar?hl=en&amp;q={searchTerms}"/>
 
 </OpenSearchDescription>
